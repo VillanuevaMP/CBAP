@@ -1,0 +1,10 @@
+﻿series,N,rho_lag1
+cds_logdiff,77,-0.116
+d_psei_10d_vol_log,66,0.002
+d_psei_30d_vol_log,66,-0.061
+d_vix_log,70,-0.191
+fx_ret,67,-0.224
+psei_ret,69,-0.084
+z_F_L,78,0.417
+z_HP_L,78,0.047
+z_H_L,78,0.146
